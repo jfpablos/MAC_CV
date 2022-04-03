@@ -1,0 +1,97 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Jesús Fernando",
+      "surnames": "Pablos Megía",
+      "title": "",
+      "description": "With experience in different branches of computer science, I have a degree in electrical engineering and finance (master's degree in financial planning and consulting).\n\nCurrently my interests are focused on data analysis specializing in Power BI, data science using different Python packages and the Microsoft cloud (Azure), of which I am certified as an administrator and as a data scientist.\n\nPreviously I have been able to participate in integration projects as API Manager acquiring knowledge in security, infrastructure maintenance and supporting development teams in addition to developing extracted data services with SQL. \n\nAccustomed to agile working methodologies (Scrum).",
+      "location": {
+        "notes": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jesuspablosmegia/"
+      },
+      {
+        "type": "github",
+        "URL": "https://www.linkedin.com/in/jesuspablosmegia"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Power BI",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/jesuspablosmegia/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Power BI",
+          "type": "technology"
+        },
+        {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Databricks",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
