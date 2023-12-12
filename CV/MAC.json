@@ -51,7 +51,19 @@
       },
       {
         "skill": {
+          "name": "Databricks",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Microsoft Power BI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PySpark",
           "type": "technology"
         }
       },
@@ -140,6 +152,24 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Databricks",
+        "type": "technology"
+      },
+      {
+        "name": "Microsoft Power BI",
+        "type": "technology"
+      },
+      {
+        "name": "PySpark",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "I would like a teamwork where colleagues share knowledge and help each other in cases of blockages, using a clear methodology with well-documented tasks."
   }
 }
