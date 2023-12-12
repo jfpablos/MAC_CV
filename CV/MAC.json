@@ -1,56 +1,51 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Jesús Fernando",
       "surnames": "Pablos Megía",
-      "title": "",
-      "description": "",
+      "title": "Title",
+      "description": "With experience in different branches of computer science, I have a degree in electrical engineering and finance (master's degree in financial planning and consulting).\n\nCurrently my interests are focused on data analysis specializing in Power BI, data science using different Python packages and the Microsoft cloud (Azure), of which I am certified as an administrator and as a data scientist.\n\nPreviously I have been able to participate in integration projects as API Manager acquiring knowledge in security, infrastructure maintenance and supporting development teams in addition to developing extracted data services with SQL. \n\nAccustomed to agile working methodologies (Scrum).",
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
       {
-        "type": "github",
-        "URL": "https://www.linkedin.com/in/jesuspablosmegia"
-      },
-      {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/jesuspablosmegia/"
+      },
+      {
+        "type": "github",
+        "URL": "https://www.linkedin.com/in/jesuspablosmegia"
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
           "type": "technology"
         }
       },
@@ -62,8 +57,34 @@
       },
       {
         "skill": {
-          "name": "Azure",
+          "name": "Python",
           "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
         }
       }
     ]
@@ -72,8 +93,21 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/jesuspablosmegia/"
+          "URL": "https://www.linkedin.com/in/jesuspablosmegia/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://www.linkedin.com/in/jesuspablosmegia",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "jfpablos@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "695318922",
+          "countryCode": "+34"
         }
       ]
     },
@@ -103,6 +137,9 @@
         "Machine Learning Engineer"
       ]
     },
-    "status": "searchingActively"
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "I would like a teamwork where colleagues share knowledge and help each other in cases of blockages, using a clear methodology with well-documented tasks."
   }
 }
