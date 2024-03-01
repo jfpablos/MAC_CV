@@ -115,12 +115,6 @@
       ],
       "contactMails": [
         "jfpablos@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "695318922",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
@@ -149,7 +143,7 @@
         "Machine Learning Engineer"
       ]
     },
-    "status": "openToOffers"
+    "status": "notAvailable"
   },
   "manfredSpecificData": {
     "mainStackTechs": [
