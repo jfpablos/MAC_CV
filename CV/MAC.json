@@ -8,7 +8,7 @@
     "profile": {
       "name": "Jesús Fernando",
       "surnames": "Pablos Megía",
-      "title": "Title",
+      "title": "%%HEADLINE%%",
       "description": "With experience in different branches of computer science, I have a degree in electrical engineering and finance (master's degree in financial planning and consulting).\n\nCurrently my interests are focused on data analysis specializing in Power BI, data science using different Python packages and the Microsoft cloud (Azure), of which I am certified as an administrator and as a data scientist.\n\nPreviously I have been able to participate in integration projects as API Manager acquiring knowledge in security, infrastructure maintenance and supporting development teams in addition to developing extracted data services with SQL. \n\nAccustomed to agile working methodologies (Scrum).",
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
@@ -112,9 +112,6 @@
           "URL": "https://www.linkedin.com/in/jesuspablosmegia",
           "type": "github"
         }
-      ],
-      "contactMails": [
-        "jfpablos@gmail.com"
       ]
     },
     "preferences": {
@@ -137,7 +134,7 @@
         }
       ],
       "preferredRoles": [
-        "Data Analysis & BI",
+        "Data Analyst & BI",
         "Data Engineer",
         "Data Scientist",
         "Machine Learning Engineer"
