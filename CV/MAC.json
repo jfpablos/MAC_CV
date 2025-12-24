@@ -165,6 +165,10 @@
           "type": "technology"
         },
         {
+          "name": "Spark",
+          "type": "technology"
+        },
+        {
           "name": "dbt",
           "type": "technology"
         }
