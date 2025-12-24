@@ -161,6 +161,10 @@
           "type": "technology"
         },
         {
+          "name": "Snowflake",
+          "type": "technology"
+        },
+        {
           "name": "dbt",
           "type": "technology"
         }
