@@ -129,6 +129,10 @@
           "type": "technology"
         },
         {
+          "name": "ETL",
+          "type": "technology"
+        },
+        {
           "name": "Microsoft Fabric",
           "type": "technology"
         },
