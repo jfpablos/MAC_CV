@@ -147,6 +147,10 @@
         {
           "name": "SQLServer",
           "type": "technology"
+        },
+        {
+          "name": "dbt",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
