@@ -121,6 +121,10 @@
           "type": "technology"
         },
         {
+          "name": "Azure Functions",
+          "type": "technology"
+        },
+        {
           "name": "Databricks",
           "type": "technology"
         },
