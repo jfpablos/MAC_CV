@@ -141,6 +141,10 @@
           "type": "technology"
         },
         {
+          "name": "Power Query",
+          "type": "technology"
+        },
+        {
           "name": "Python",
           "type": "technology"
         },
