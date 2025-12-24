@@ -137,6 +137,10 @@
           "type": "technology"
         },
         {
+          "name": "SQL",
+          "type": "technology"
+        },
+        {
           "name": "SQLServer",
           "type": "technology"
         }
