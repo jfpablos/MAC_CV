@@ -135,6 +135,10 @@
         {
           "name": "Python",
           "type": "technology"
+        },
+        {
+          "name": "SQLServer",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
