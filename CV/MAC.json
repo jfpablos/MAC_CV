@@ -57,6 +57,12 @@
       },
       {
         "skill": {
+          "name": "Microsoft Fabric",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Microsoft Power BI",
           "type": "technology"
         }
@@ -191,6 +197,10 @@
     "mainStackTechs": [
       {
         "name": "Databricks",
+        "type": "technology"
+      },
+      {
+        "name": "Microsoft Fabric",
         "type": "technology"
       },
       {
