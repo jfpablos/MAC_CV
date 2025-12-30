@@ -96,6 +96,17 @@
           "name": "Universidad Carlos III de Madrid"
         },
         "finishDate": "2012-05-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master en Asesoramiento y Planificación Financiera",
+        "startDate": "2017-09-01",
+        "institution": {
+          "name": "Universidad Rey Juan Carlos",
+          "description": "Academia Europea de Dirección y Economía de la Empresa (AEDEM)\nFundamentos éticos y financieros\nAnálisis del entorno económico y mercados financieros\nMercado de valores de renta fija\nMercado de valores de renta variable\nInstrumentos derivados\nProductos Financieros\nSelección de inversiones\nAsesoramiento y planificación financiera"
+        },
+        "finishDate": "2018-07-01"
       }
     ],
     "softSkills": [
