@@ -28,6 +28,61 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Ariplane Solutions"
+        },
+        "roles": [
+          {
+            "name": "Ingeniero de datos para Level Airplane",
+            "startDate": "2024-04-01",
+            "finishDate": "2025-06-01",
+            "challenges": [
+              {
+                "description": "Gestión de procesos ETL: Diseño, desarrollo y mantenimiento pipelines para diversas fuentes del sector aéreo. Experiencia en arquitecturas Batch y Real-time, optimizando el flujo de datos mediante el ecosistema de Microsoft Azure (Data Explorer, Data Factory, Azure Functions, Logic Apps, WebJobs) y Microsoft Fabric (Data Warehouse, Lakehouse).\n\nIntegración y Conectividad: Implementación de flujos de integración para el envío y recepción de datos con herramientas externas y plataformas de terceros, incluyendo el consumo de APIs y sincronización con Salesforce.\n\nModelado de Datos: Creación de modelos de datos robustos y escalables alineados con los objetivos estratégicos y las necesidades operativas del negocio.\n\nVisualización y Business Intelligence: Desarrollo de dashboards avanzados en Power BI, transformando datos complejos en soluciones visuales para la toma de decisiones críticas."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Azure Functions",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Fabric",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Power BI",
+                "type": "technology"
+              },
+              {
+                "name": "PySpark",
+                "type": "technology"
+              },
+              {
+                "name": "Real Time",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
