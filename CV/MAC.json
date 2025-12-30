@@ -124,6 +124,27 @@
           "description": "Academia Europea de Dirección y Economía de la Empresa (AEDEM)\nFundamentos éticos y financieros\nAnálisis del entorno económico y mercados financieros\nMercado de valores de renta fija\nMercado de valores de renta variable\nInstrumentos derivados\nProductos Financieros\nSelección de inversiones\nAsesoramiento y planificación financiera"
         },
         "finishDate": "2018-07-01"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "PL-300 Microsoft Certified: Data Analyst Associate",
+        "startDate": "2021-09-01",
+        "institution": {
+          "name": "Microsoft",
+          "URL": "https://learn.microsoft.com/api/credentials/share/en-us/44802625/8B4ADF82F809497C?sharingId=B78D32C41DECA9FC"
+        },
+        "finishDate": "2021-09-01",
+        "linkedCompetences": [
+          {
+            "name": "Microsoft Power BI",
+            "type": "technology"
+          },
+          {
+            "name": "Power Query",
+            "type": "technology"
+          }
+        ]
       }
     ],
     "softSkills": [
