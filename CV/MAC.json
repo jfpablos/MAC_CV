@@ -31,6 +31,11 @@
   "knowledge": {
     "languages": [
       {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Limited working proficiency"
+      },
+      {
         "name": "ES",
         "fullName": "Español",
         "level": "Native or bilingual proficiency"
