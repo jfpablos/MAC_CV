@@ -80,6 +80,57 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Knowmad Mood"
+        },
+        "roles": [
+          {
+            "name": "Data Engineer - Analista de Datos",
+            "startDate": "2023-03-01",
+            "finishDate": "2024-04-01",
+            "challenges": [
+              {
+                "description": "• Adaptación de antiguos modelos de datos a modelo en estrella realizando las labores de ETL pertinentes mediante Pyspark en Databricks.\n• Creación de informes en Power BI y optimización del rendimiento.\n• Actualización de datos Azure Datalake mediante Power Apps y Power Automate."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "DAX",
+                "type": "technology"
+              },
+              {
+                "name": "Databricks",
+                "type": "technology"
+              },
+              {
+                "name": "ETL",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Power Automate",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Power BI",
+                "type": "technology"
+              },
+              {
+                "name": "Power Query",
+                "type": "technology"
+              },
+              {
+                "name": "PySpark",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
