@@ -131,6 +131,57 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "ATSistemas"
+        },
+        "roles": [
+          {
+            "name": "Data Engineer - Analista de Datos",
+            "startDate": "2022-10-01",
+            "finishDate": "2023-03-01",
+            "challenges": [
+              {
+                "description": "• Colaboración en el diseño de un nuevo modelo de datos y creación y mantenimiento de almacén de datos en Snowflake.\n• Proceso de ETL en Snowflake de los datos desde su origen en un almacén S3 de AWS hasta su consumo en Power BI.\n• Gestión, configuración y seguridad de Power BI Service."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "AWS Lambda",
+                "type": "technology"
+              },
+              {
+                "name": "ETL",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Power BI",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "S3",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Snowflake",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
