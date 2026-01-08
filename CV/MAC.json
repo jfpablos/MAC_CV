@@ -358,6 +358,21 @@
       },
       {
         "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "AZ-104 Microsoft Certified: Azure Administrator Associate",
+        "startDate": "2021-11-01",
+        "institution": {
+          "name": "Microsoft"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
         "degreeAchieved": true,
         "name": "DP-100 Azure Data Scientist Associate",
         "startDate": "2020-09-01",
