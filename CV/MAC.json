@@ -409,14 +409,13 @@
       },
       {
         "studyType": "certification",
-        "degreeAchieved": true,
+        "degreeAchieved": false,
         "name": "PL-300 Microsoft Certified: Data Analyst Associate",
         "startDate": "2021-09-01",
         "institution": {
           "name": "Microsoft",
           "URL": "https://learn.microsoft.com/api/credentials/share/en-us/44802625/8B4ADF82F809497C?sharingId=B78D32C41DECA9FC"
         },
-        "finishDate": "2021-09-01",
         "linkedCompetences": [
           {
             "name": "Microsoft Power BI",
