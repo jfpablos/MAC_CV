@@ -357,6 +357,22 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "DP-100 Azure Data Scientist Associate",
+        "startDate": "2020-09-01",
+        "institution": {
+          "name": "Microsoft"
+        },
+        "finishDate": "2020-09-01",
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniería Técnica Industrial de Electricidad",
