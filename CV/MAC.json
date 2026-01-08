@@ -182,6 +182,45 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "GFI Informatica"
+        },
+        "roles": [
+          {
+            "name": "Analista de Datos",
+            "startDate": "2020-11-01",
+            "finishDate": "2021-05-01",
+            "challenges": [
+              {
+                "description": "• Creación de cuadro de mandos para gestión de DevOps."
+              }
+            ],
+            "competences": [
+              {
+                "name": "ETL",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Power BI",
+                "type": "technology"
+              },
+              {
+                "name": "Power Query",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
