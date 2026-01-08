@@ -386,6 +386,25 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "DP-203 Microsoft Certified: Azure Data Engineer Associate",
+        "startDate": "2022-10-01",
+        "institution": {
+          "name": "Microsoft"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Databricks",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniería Técnica Industrial de Electricidad",
