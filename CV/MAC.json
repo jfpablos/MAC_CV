@@ -221,6 +221,57 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "GFI Informatica"
+        },
+        "roles": [
+          {
+            "name": "API Management para Orange",
+            "startDate": "2019-05-01",
+            "finishDate": "2020-11-01",
+            "challenges": [
+              {
+                "description": "• Creación, securización y gestión de APIS mediante API Manager de google Apigee.\n• Gestión de la arquitectura de un API Manager ubicada en AWS.\n• Soporte y evangelización a equipos de desarrollo."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "AWS EC2",
+                "type": "technology"
+              },
+              {
+                "name": "Apigee",
+                "type": "technology"
+              },
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "OpenApi",
+                "type": "technology"
+              },
+              {
+                "name": "S3",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
