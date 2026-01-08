@@ -372,13 +372,12 @@
       },
       {
         "studyType": "certification",
-        "degreeAchieved": true,
+        "degreeAchieved": false,
         "name": "DP-100 Azure Data Scientist Associate",
         "startDate": "2020-09-01",
         "institution": {
           "name": "Microsoft"
         },
-        "finishDate": "2020-09-01",
         "linkedCompetences": [
           {
             "name": "Azure",
