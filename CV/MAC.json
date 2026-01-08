@@ -341,14 +341,13 @@
     "studies": [
       {
         "studyType": "certification",
-        "degreeAchieved": true,
+        "degreeAchieved": false,
         "name": " DP-700 Microsoft Certified: Fabric Data Engineer Associate",
         "startDate": "2025-11-01",
         "institution": {
           "name": "Microsoft",
           "URL": "https://learn.microsoft.com/en-us/users/44802625/credentials/3e08980f69343eec"
         },
-        "finishDate": "2025-11-01",
         "linkedCompetences": [
           {
             "name": "Microsoft Fabric",
